@@ -1,1 +1,22 @@
-# Sistema-Hospitalario
+# Sistema Hospitalario
+
+Sistema web desarrollado para la administración de procesos hospitalarios, permitiendo gestionar pacientes, médicos, citas y expedientes clínicos desde una plataforma centralizada.
+
+## Características
+
+- 🏥 Gestión de pacientes.
+- 👨‍⚕️ Administración de médicos y especialidades.
+- 📅 Programación y seguimiento de citas médicas.
+- 📋 Gestión de expedientes clínicos.
+- 👥 Administración de usuarios y roles.
+- 📊 Panel administrativo.
+- 📱 Interfaz responsiva.
+
+## Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- PHP
+- MySQL
